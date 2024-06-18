@@ -15,10 +15,15 @@
 <br>
 
 ## Tech Stack
+| Java | Spring  | JS | node js | php |
+|----------|----------|----------|-----|-----|
+|  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" title="nodejs" alt="nodejs" width="55" height="55"/>|  <img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png" title="php" alt="php" width="55" height="55"/>| 
 
+  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -79,7 +84,7 @@
 
 <p align="center">
 <a href="https://github.com/Chiriius">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chiriius&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chiriius&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Chiriius&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiriius&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </a>
 </p>
