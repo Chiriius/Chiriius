@@ -7,28 +7,25 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/miguel-angelgn)
 
 
-## About my
+## About Me
 
-- 💻 Software Programming 
-- ⌨️ Back-end developer
-- 📚 Mechatronic engineering student
+Hello! My name is Miguel González, I am 21 years old and I am a student of Mechatronic Engineering and Software Analysis and Development. My main interest lies in back-end development, as I deeply enjoy programming and have no problem dedicating time to learn and practice what I love.
+
+In my spare time, besides programming, I love traveling by motorcycle. This hobby allows me to clear my mind and find new inspirations. Currently, I am expanding my knowledge on the various services offered by Spring Boot.
+
+I consider myself a curious and motivated person, always seeking new challenges and opportunities to grow professionally. Additionally, I am respectful and honest, values that I deem fundamental both in my personal and professional life. I am excited about the future and the opportunities that the tech world has in store for me.
+
+
 <br>
 
 ## Tech Stack
-| Java | Spring  | JS | node js | php |
-|----------|----------|----------|-----|-----|
-|  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" title="nodejs" alt="nodejs" width="55" height="55"/>|  <img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png" title="php" alt="php" width="55" height="55"/>| 
+| Java | Spring  | JS | node js | php |  Docker |  Unity |  HTML |  CSS |  
+|----------|----------|----------|-----|-----|-----|-----|-----|-----|
+|  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" title="nodejs" alt="nodejs" width="55" height="55"/>|  <img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png" title="php" alt="php" width="55" height="55"/>| <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" title="php" alt="php" width="55" height="55"/>| <img src="https://static-00.iconduck.com/assets.00/unity-icon-512x512-kdsx9w7b.png" title="php" alt="php" width="55" height="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="php" alt="php" width="55" height="55"/>|  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" title="php" alt="php" width="55" height="55"/>| 
+
 
   
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+
 
 
 
@@ -88,3 +85,4 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiriius&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </a>
 </p>
+
