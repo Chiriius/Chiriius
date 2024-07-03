@@ -56,11 +56,14 @@ I consider myself a curious and motivated person, always seeking new challenges 
                <br>
 <h3 align="center">Sena-Connect-AR </h3>
 <div align="center">                                       
-<a href="https://github.com/Chiriius/" target="_blank"><img src="https://imgur.com/bB6JPnS.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/Chiriius/" target="_blank"><img src="https://imgur.com/bB6JPnS.png" width="400" alt=""></a>
 <br>
 <p>
 <a href="https://github.com/Chiriius/Api-Proyecto-Sena-Connect-AR" target="_blank">
-<img src="https://img.shields.io/badge/CODE API-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE API NODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+  
+<a href="https://github.com/Chiriius/Spring-boot-Api-senna-connect" target="_blank">
+<img src="https://img.shields.io/badge/CODE API SPRING -80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <br>
 <a href="https://drive.google.com/file/d/1B8u8Du_oyFZEdUekKpTjwuI6aM-54dIq/view?usp=drive_link" target="_blank">
@@ -81,8 +84,8 @@ I consider myself a curious and motivated person, always seeking new challenges 
 
 <p align="center">
 <a href="https://github.com/Chiriius">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Chiriius&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiriius&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=Chiriius&show_icons=true&theme=github_dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiriius&size_weight=0.0005&count_weight=0.4&layout=compact&theme=github_dark">
 </a>
 </p>
 
