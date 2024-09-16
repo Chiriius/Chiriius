@@ -19,9 +19,9 @@ I consider myself a curious and motivated person, always seeking new challenges 
 <br>
 
 ## Tech Stack
-| Java | Spring  | JS | node js | php |  Docker |  Unity |  HTML |  CSS |  
-|----------|----------|----------|-----|-----|-----|-----|-----|-----|
-|  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" title="nodejs" alt="nodejs" width="55" height="55"/>|  <img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png" title="php" alt="php" width="55" height="55"/>| <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" title="php" alt="php" width="55" height="55"/>| <img src="https://static-00.iconduck.com/assets.00/unity-icon-512x512-kdsx9w7b.png" title="php" alt="php" width="55" height="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="php" alt="php" width="55" height="55"/>|  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" title="php" alt="php" width="55" height="55"/>| 
+| Go  | Java | Spring  | JS | node js | php |  Docker |  Unity |  HTML |  CSS |  
+|----------|----------|----------|----------|-----|-----|-----|-----|-----|-----|
+|  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" title="nodejs" alt="nodejs" width="55" height="55"/>|  <img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png" title="php" alt="php" width="55" height="55"/>| <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" title="php" alt="php" width="55" height="55"/>| <img src="https://static-00.iconduck.com/assets.00/unity-icon-512x512-kdsx9w7b.png" title="php" alt="php" width="55" height="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="php" alt="php" width="55" height="55"/>|  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" title="php" alt="php" width="55" height="55"/>| 
 
 
   
@@ -84,8 +84,8 @@ I consider myself a curious and motivated person, always seeking new challenges 
 
 <p align="center">
 <a href="https://github.com/Chiriius">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=Chiriius&show_icons=true&theme=github_dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiriius&size_weight=0.0005&count_weight=0.4&layout=compact&theme=github_dark">
+    <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=Chiriius&show_icons=true&theme=github_dark">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiriius&size_weight=0.0005&count_weight=0.4&layout=compact&theme=github_dark">
 </a>
 </p>
 
