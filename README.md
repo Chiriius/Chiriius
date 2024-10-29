@@ -9,19 +9,19 @@
 
 ## About Me
 
-Hello! My name is Miguel González, I am 21 years old and I am a student of Mechatronic Engineering and Software Analysis and Development. My main interest lies in back-end development, as I deeply enjoy programming and have no problem dedicating time to learn and practice what I love.
+Hello, my name is Miguel González, I am 22 years old, and I am a student of Mechatronic Engineering and Software Analysis and Development. My main interest lies in back-end development, as I deeply enjoy programming and have no problem dedicating time to learn and practice what I love.
 
-In my spare time, besides programming, I love traveling by motorcycle. This hobby allows me to clear my mind and find new inspirations. Currently, I am expanding my knowledge on the various services offered by Spring Boot.
+In my spare time, besides programming, I love traveling by motorcycle. This hobby allows me to clear my mind and find new inspirations. Currently, I am focusing more on Go, although I am also exploring Java with Spring Boot.
 
-I consider myself a curious and motivated person, always seeking new challenges and opportunities to grow professionally. Additionally, I am respectful and honest, values that I deem fundamental both in my personal and professional life. I am excited about the future and the opportunities that the tech world has in store for me.
+I consider myself a curious and motivated person, always seeking new challenges and opportunities to grow professionally. Additionally, I highly value respect and honesty, which I believe are fundamental in both my personal and professional life. I am excited about the future and the opportunities that the tech world has in store for me.
 
 
 <br>
 
 ## Tech Stack
-| Go  | Java | Spring  | JS | node js | php |  Docker |  Unity |  HTML |  CSS |  
-|----------|----------|----------|----------|-----|-----|-----|-----|-----|-----|
-|  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" title="nodejs" alt="nodejs" width="55" height="55"/>|  <img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png" title="php" alt="php" width="55" height="55"/>| <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" title="php" alt="php" width="55" height="55"/>| <img src="https://static-00.iconduck.com/assets.00/unity-icon-512x512-kdsx9w7b.png" title="php" alt="php" width="55" height="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="php" alt="php" width="55" height="55"/>|  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" title="php" alt="php" width="55" height="55"/>| 
+| Go  | Java | Spring  | JS | Docker |  Unity |  HTML |  CSS |  
+|----------|----------|----------|----------|-----|-----|-----|-----|
+|  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" title="php" alt="php" width="55" height="55"/>| <img src="https://static-00.iconduck.com/assets.00/unity-icon-512x512-kdsx9w7b.png" title="php" alt="php" width="55" height="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="php" alt="php" width="55" height="55"/>|  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" title="php" alt="php" width="55" height="55"/>| 
 
 
   
@@ -51,29 +51,20 @@ I consider myself a curious and motivated person, always seeking new challenges 
 </div>
                                                                                       
 </td>       
-
 <td width="50%">
-               <br>
-<h3 align="center">Sena-Connect-AR </h3>
+               
+<h3 align="center">My Wallet </h3>
 <div align="center">                                       
-<a href="https://github.com/Chiriius/" target="_blank"><img src="https://imgur.com/bB6JPnS.png" width="400" alt=""></a>
+<a href="https://github.com/Chiriius/" target="_blank"><img src="https://external-preview.redd.it/79Q2d6MyKVO6AcG1BglMDmIduRInax9jNrZKfG-4-TU.jpg?width=640&crop=smart&auto=webp&s=3b911d6b6cfe41c16bc652078ac8f79c6685cb48" width="400" alt=""></a>
 <br>
 <p>
-<a href="https://github.com/Chiriius/Api-Proyecto-Sena-Connect-AR" target="_blank">
-<img src="https://img.shields.io/badge/CODE API NODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-  
-<a href="https://github.com/Chiriius/Spring-boot-Api-senna-connect" target="_blank">
-<img src="https://img.shields.io/badge/CODE API SPRING -80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
+<a href="https://github.com/Chiriius/My-Wallet" target="_blank"> 
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 <br>
-<a href="https://drive.google.com/file/d/1B8u8Du_oyFZEdUekKpTjwuI6aM-54dIq/view?usp=drive_link" target="_blank">
-<img src="https://img.shields.io/badge/Google%20Drive-Project%20Unity-blue?logo=googledrive&style=flat-square">
-</a>
-<a href="https://drive.google.com/file/d/1G6JMUX9M8odkoqoOJQWNCXnmCv307dFU/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/Google%20Drive-APP%20MOVIL-blue?logo=googledrive&style=flat-square">
-</a>
 </p>
-</p>Senna connect ar is a project created to help guidance through Augmented Reality within the SENA CIYA node. A mobile application was made in <Strong>Unity</Strong> integrating the vuforia sdk for AR and an API in node js to manage the app's data. The database is postgreSQL and is a docker image.</p>
+</p>My project "My Wallet" aims to take care of people's financial health. It focuses on a microservices architecture, and user management is handled by a service developed in Go, utilizing a non-relational database.
+
+ </p>
 </div>                                                             
 </table>                                                                                 
 </div>
