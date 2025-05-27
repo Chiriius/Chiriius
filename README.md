@@ -51,7 +51,7 @@ I'm Miguel Ángel, a backend-focused software developer with a strong foundation
                
 <h3 align="center">My Wallet </h3>
 <div align="center">                                       
-<a href="https://github.com/Chiriius/" target="_blank"><img src="https://external-preview.redd.it/79Q2d6MyKVO6AcG1BglMDmIduRInax9jNrZKfG-4-TU.jpg?width=640&crop=smart&auto=webp&s=3b911d6b6cfe41c16bc652078ac8f79c6685cb48" width="400" alt=""></a>
+<a href="https://github.com/Chiriius/" target="_blank"><img src="https://iili.io/3pHgqPe.md.png"?width=640&crop=smart&auto=webp&s=3b911d6b6cfe41c16bc652078ac8f79c6685cb48" width="400" alt=""></a>
 <br>
 <p>
 <a href="https://github.com/Chiriius/Proyecto-microservice-gestion-Financiera-My-Wallet-" target="_blank"> 
