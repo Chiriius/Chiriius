@@ -49,7 +49,7 @@ I'm Miguel Ángel, a backend-focused software developer with a strong foundation
 </td>       
 <td width="50%">
                
-<h3 align="center">My Wallet </h3>
+<h3 align="center">Cuidado Finanzas </h3>
 <div align="center">                                       
 <a href="https://github.com/Chiriius/" target="_blank"><img src="https://iili.io/3pHgqPe.md.png"?width=640&crop=smart&auto=webp&s=3b911d6b6cfe41c16bc652078ac8f79c6685cb48" width="400" alt=""></a>
 <br>
